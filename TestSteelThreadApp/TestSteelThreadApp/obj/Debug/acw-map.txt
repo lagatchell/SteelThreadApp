@@ -1,0 +1,4 @@
+TestSteelThreadApp.MainActivity, TestSteelThreadApp;md508098d28345416914613789a78f83c20.MainActivity
+TestSteelThreadApp.MainActivity, TestSteelThreadApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md508098d28345416914613789a78f83c20.MainActivity
+TestSteelThreadApp.MainActivity;md508098d28345416914613789a78f83c20.MainActivity
+teststeelthreadapp.MainActivity;md508098d28345416914613789a78f83c20.MainActivity
