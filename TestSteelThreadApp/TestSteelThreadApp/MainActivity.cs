@@ -36,7 +36,7 @@ namespace TestSteelThreadApp
 
             using (var client = new HttpClient())
             {
-                var url = string.Format("https://funcsteelthread.azurewebsites.net/api/HttpTriggerCSharp1?code=mjw3z9kRhdAcdo6poYaA5aeXIvOaD8AvfWfTTZSE3P71sHcxvhffng==");
+                var url = string.Format("https://lukeproject.azurewebsites.net/api/ReceiveData?code=nDYOtuYaJ4emCUpfKacDcLUJDD/eCWf8ROFch2CHTuct5e0Q5gtXHg==");
 
                 var content = new StringContent("{name: '" + myText.Text + "'}", Encoding.UTF8, "application/json");
 
